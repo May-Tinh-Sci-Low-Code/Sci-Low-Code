@@ -1,2 +1,2 @@
-This folder contains teh documentation of SciLowCode in ENglisch.
+This folder contains the documentation of SciLowCode in ENglisch.
 Other localizations to follow soon.
