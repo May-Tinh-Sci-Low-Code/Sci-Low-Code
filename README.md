@@ -1,7 +1,7 @@
 # Sci-Low-Code
 Library for Scientific Computing and and Low Code Develpment
 This code repository is a Spin-Off of the University of Applied Sciences Aalen.
-The former project UABM https://www.hs-aalen.de/UABM, or https://github.com/U-A-B-M/UABM is set dormant, the present project is its continuation.
+The former project UABM https://www.hs-aalen.de/UABM, or on github https://github.com/U-A-B-M/UABM, is set dormant, the present project is its continuation.
 
 The present Excel Add-In facilitates the following use cases:
 1. Numerical Curve Sketching
