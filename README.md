@@ -10,3 +10,4 @@ The present Excel Add-In facilitates the following use cases:
 4. Low Code / No Code Development
 5. Rapid Prototyping
 6. Optimization
+<img width="1046" height="610" alt="SciLowCodeArchitecture" src="https://github.com/user-attachments/assets/f4fadc6d-a9d8-4e12-a449-351e4f671f4a" />
