@@ -11,7 +11,7 @@ The present Excel Add-In facilitates the following use cases:
 5. Rapid Prototyping
 6. Optimization
 
-The nextr graphic visualizes 2 things:
+The next graphic visualizes 2 things:
 1. The Office Technology Stack, exemplified on Excel. We have the following layers:
    a. Top layer: Excel, the well-known spreadsheet calculation programm.
    b. Below the VBA = "Visual Basic for Application" layer. Here, one may automatize Excel by programatically accessing Excel components (cells, sheets, etc)
