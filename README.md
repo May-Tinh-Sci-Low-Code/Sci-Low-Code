@@ -33,8 +33,8 @@ A. The Office Technology Stack, exemplified on Excel. We have the following laye
 B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is is overlaying the Office Technology Stack.
 
 # Use case Numerical Curve Sketching
+<img width="1726" height="781" alt="image" src="https://github.com/user-attachments/assets/4541f0bc-44b4-42db-9e6d-f6733b701076" />
 
-<img width="1726" height="781" alt="image" src="https://github.com/user-attachments/assets/06e8bcb3-096c-483f-ac8b-dc4569aecacc" />
 
 The expected outcome of a numerical curve sketch will be alog the lines of the next acreenshot - depending on the function analyzed different shapes and numbers will occur:
 <img width="1214" height="715" alt="image" src="https://github.com/user-attachments/assets/b76c724d-d7c8-4f23-8d9e-d19dac3cec74" />
