@@ -11,6 +11,7 @@ The present Excel Add-In facilitates the following use cases:
 5. Rapid Prototyping
 6. Optimization
 
+
 The next graphic visualizes 2 things:
 
 A. The Office Technology Stack, exemplified on Excel. We have the following layers:
