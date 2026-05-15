@@ -12,8 +12,9 @@ The present Excel Add-In facilitates the following use cases:
 6. Optimization
 
 
-# Architecture (see Office Technology Stack below) 
-The next graphic visualizes 2 things:
+# Architecture  
+<img width="1046" height="610" alt="SciLowCodeArchitecture" src="https://github.com/user-attachments/assets/f4fadc6d-a9d8-4e12-a449-351e4f671f4a" />
+The graphic visualizes 2 things:
 
 A. The Office Technology Stack, exemplified on Excel. We have the following layers:
 1. Top layer: Excel, the well-known spreadsheet calculation programm.
@@ -28,5 +29,4 @@ A. The Office Technology Stack, exemplified on Excel. We have the following laye
    
    As a matter of fact, the numerical procedures "Newton's Method" (https://en.wikipedia.org/wiki/Newton%27s_method) and "Gradient Descent" (https://en.wikipedia.org/wiki/Gradient_descent) are already integrated in Excel ... .
    
-B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is indicated as layer on the Office Technology Stack.      
-<img width="1046" height="610" alt="SciLowCodeArchitecture" src="https://github.com/user-attachments/assets/f4fadc6d-a9d8-4e12-a449-351e4f671f4a" />
+B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is indicated as layer on the Office Technology Stack.
