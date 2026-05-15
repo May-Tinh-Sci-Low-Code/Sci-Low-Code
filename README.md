@@ -1,5 +1,5 @@
 # Sci-Low-Code
-Library for Scientific Computing and and Low Code Develpment.
+Library for Scientific Computing and Low Code Develpment.
 This project is a Spin-Off of the University of Applied Sciences Aalen.
 The former project UABM https://www.hs-aalen.de/UABM, or on github https://github.com/U-A-B-M/UABM, is set dormant, the present project is its continuation.
 
