@@ -13,7 +13,8 @@ The present Excel Add-In facilitates the following use cases:
 
 
 # Architecture  
-<img width="1046" height="610" alt="SciLowCodeArchitecture" src="https://github.com/user-attachments/assets/f4fadc6d-a9d8-4e12-a449-351e4f671f4a" />
+<img width="1177" height="642" alt="image" src="https://github.com/user-attachments/assets/bdc55e05-4566-4058-bcfd-59bada36489d" />
+
 The graphic visualizes 2 things:
 
 A. The Office Technology Stack, exemplified on Excel. We have the following layers:
