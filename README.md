@@ -11,11 +11,12 @@ The present Excel Add-In facilitates the following use cases:
 5. Rapid Prototyping
 6. Optimization
 
-# Language feature
+# Language support
 Currently the 4 languages English, Chinese/Mandarin (中文，普通话), German, Vietnamese (Tiếng Việt) are supported. It is possible to set a 1st and 2nd language from the 4 languages mentioned before:
 1. The 1st language is displayed in the first place, surprise 😀. If no 1st language is set then the display language defaults to English.
 2. If a 2nd language is set (facultative), the the UI is displayed in this language as well, right after the 1st language.
-Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎:
+
+Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎, seee the examples below.
 
 For example, English combined with Chinese/Mandarin:
 
