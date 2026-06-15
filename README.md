@@ -18,6 +18,7 @@ Currently the 4 languages English, Chinese/Mandarin (中文，普通话), German
 Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎:
 For example, English combined with Chinese/Mandarin 
 <img width="457" height="417" alt="image" src="https://github.com/user-attachments/assets/c4a0b13c-c283-4eeb-a86a-bbee7f2fbbf8" />
+
 Or Vietnamese with German:
 <img width="462" height="415" alt="image" src="https://github.com/user-attachments/assets/dcca07e6-7784-477d-8758-ef25193df31f" />
 
