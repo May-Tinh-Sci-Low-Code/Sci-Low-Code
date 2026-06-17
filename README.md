@@ -1,4 +1,4 @@
-# Sci-Low-Code
+# 1. Sci-Low-Code
 Library for Scientific Computing and Low Code Develpment.
 This project is a Spin-Off of the University of Applied Sciences Aalen.
 The former project UABM https://www.hs-aalen.de/UABM, or on github https://github.com/U-A-B-M/UABM, is set dormant, the present project is its continuation.
@@ -11,7 +11,7 @@ The present Excel Add-In facilitates the following use cases:
 5. Rapid Prototyping
 6. Optimization
 
-# Language support
+# 2. Language support
 Currently the 4 languages English, Chinese/Mandarin (中文，普通话), German, Vietnamese (Tiếng Việt) are supported. It is possible to set a 1st and 2nd language from the 4 languages mentioned before:
 1. The 1st language is displayed in the first place, surprise 😀. If no 1st language is set then the display language defaults to English.
 2. If a 2nd language is set (facultative), the the UI is displayed in this language as well, right after the 1st language.
@@ -20,14 +20,20 @@ Okay .., this makes the UI a tad overcrowded 😀, but it's fun 😎, seee the e
 
 For example, English combined with Chinese/Mandarin:
 
-<img width="457" height="417" alt="image" src="https://github.com/user-attachments/assets/c4a0b13c-c283-4eeb-a86a-bbee7f2fbbf8" />
+<img width="461" height="411" alt="image" src="https://github.com/user-attachments/assets/4a0975de-522e-4d96-b55a-f8b7f5d4bca6" />
+
+
 
 Or Vietnamese with German:
 
-<img width="462" height="415" alt="image" src="https://github.com/user-attachments/assets/dcca07e6-7784-477d-8758-ef25193df31f" />
+<img width="460" height="412" alt="image" src="https://github.com/user-attachments/assets/ebf3a9c3-8d39-40ee-aaee-46da9ac90905" />
 
 
-# Architecture  
+
+
+
+
+# 3. Architecture  
 <img width="1177" height="642" alt="image" src="https://github.com/user-attachments/assets/bdc55e05-4566-4058-bcfd-59bada36489d" />
 
 The graphic visualizes 2 things:
@@ -48,7 +54,7 @@ A. The Office Technology Stack, exemplified on Excel. We have the following laye
    
 B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is is overlaying the Office Technology Stack.
 
-# Use case Numerical Curve Sketching
+# 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
 
 The expected outcome of a numerical curve sketch will be alog the lines of the next acreenshot - depending on the function analyzed different shapes and numbers will occur:
