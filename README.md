@@ -11,6 +11,7 @@ The present Excel Add-In facilitates the following use cases:
 5. Rapid Prototyping
 6. Optimization
 7. Integration with other applications via a dedicated API
+8. Multi-Language support in comparison mode, i.e. 2 languages can be displayed at the same time.
 
 
 
