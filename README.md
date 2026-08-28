@@ -58,6 +58,8 @@ A. The Office Technology Stack, exemplified on Excel. We have the following laye
    
 B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components from the above technology stack and makes them available as Excel menu. A schematic content of SciLowCode is is overlaying the Office Technology Stack.
 
+C. Automatization in Excel for applying the above mathematical scientific methods, fro example mass data processing.  
+
 # 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
 
