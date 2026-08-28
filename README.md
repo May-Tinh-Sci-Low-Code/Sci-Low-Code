@@ -66,6 +66,8 @@ Please Note: This architecture relies heavily on mathematical foundation like, f
 Also, advanced skills in handling Excel are needed to operate this architecture/solution. 
 
 # 4. Use case Numerical Curve Sketching
+<img width="640" height="245" alt="image" src="https://github.com/user-attachments/assets/6a472baf-06d2-414f-86ba-078e56220387" />
+
 <img width="370" height="147" alt="image" src="https://github.com/user-attachments/assets/87eb7adb-67dc-448b-8e5e-c7cf58f69d19" />
 
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
