@@ -63,7 +63,7 @@ C. Automatization in Excel for applying the above mathematical scientific method
 Several use cases are available illustrating the use of the functionality exposed by this architecture. 
 
 Please Note: This architecture relies heavily on mathematical foundation like, for example, the Extreme Value Theorem, https://en.wikipedia.org/wiki/Extreme_value_theorem, sometimes arttributed to Karl Weierstrass.
-
+Also, advanced skills in handling Excel are needed to operate this architecture/solution. 
 
 # 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
