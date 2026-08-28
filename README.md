@@ -60,6 +60,8 @@ B. The SciLowCode Archtecture: SciLowCode simply chooses the "right" components 
 
 C. Automatization in Excel for applying the above mathematical scientific methods, fro example mass data processing.  
 
+Several use cases are available illustrating the use of the functionality exposed by this architecture. 
+
 # 4. Use case Numerical Curve Sketching
 <img width="1062" height="431" alt="image" src="https://github.com/user-attachments/assets/76304dbf-8166-4994-994b-d810ad56cb85" />
 
