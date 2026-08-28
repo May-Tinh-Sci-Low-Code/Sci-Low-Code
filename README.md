@@ -10,7 +10,7 @@ The present Excel Add-In facilitates the following use cases:
 4. Low Code / No Code Development
 5. Rapid Prototyping
 6. Optimization
-7. Inetegration with other applications via a dedicated API
+7. Integration with other applications via a dedicated API
 
 
 
